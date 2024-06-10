@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://yhype.me"><img src="https://komarev.com/ghpvc/?username=warrenrhodes&color=66ccff" /></a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warrenrhodes&" alt="warrenrhodes" /></p>
 
 <!--
 **warrenrhodes/warrenrhodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
